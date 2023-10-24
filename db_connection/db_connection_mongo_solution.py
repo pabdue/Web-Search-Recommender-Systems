@@ -16,7 +16,8 @@ def connectDataBase():
     try:
         # Create a database connection
         client = pymongo.MongoClient("mongodb://localhost:27017/corpus")
-        return client
+        db = client["corpus"]
+        return db
     except Exception as e:
         print("Error connecting to MongoDB:", e)
         return None
