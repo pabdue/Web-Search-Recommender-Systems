@@ -1,0 +1,192 @@
+<section class="text-images" id="s0">
+    <div class="clearfix"><img alt="Abdelfattah Amamra" height="161" src="../img/faculty-staff/abdel.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Abdelfattah Amamra</h2>
+        <p>
+            <strong>Title:</strong> Associate Professor <br/> 
+            <strong>Office:</strong> 8-11 <br/> 
+            <strong>Phone:</strong> (909) 869-3447 <br/> 
+            <strong>Email: </strong> <a href="mailto:aamamra@cpp.edu">aamamra@cpp.edu</a> <br/> 
+            <strong>Web:</strong> 
+            <a href="https://www.cpp.edu/faculty/aamamra/index.shtml">cpp.edu/faculty/aamamra/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Tingting Chen" height="160" src="../img/faculty-staff/chen.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Tingting Chen</h2>
+        <p>
+            <strong>Title:</strong>&#160;Professor <br/>
+            <strong>Office:</strong> 8-09 <br/> 
+            <strong>Phone:</strong> (909) 869-4842 <br/> 
+            <strong>Email:</strong>&#160; <a href="mailto:tingtingchen@cpp.edu">tingtingchen@cpp.edu</a>&#160; <br/>
+            <strong>Web:</strong> 
+            <a href="http://www.cpp.edu/faculty/tingtingchen/">cpp.edu/faculty/tingtingchen/</a>
+        </p>
+    </div>
+    <div class="clearfix"><hr/></div>
+    <div class="clearfix"><img alt="Markus Eger" height="160" src="../img/faculty-staff/markuseger.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Markus Eger</h2>
+        <p>
+            <strong>Title:</strong> Assistant Professor <br/> 
+            <strong>Office:</strong> 8-43 <br/> 
+            <strong>Phone:</strong> (909) 869- <br/> 
+            <strong>Email:</strong>&#160; <a href="mailto:meger@cpp.edu">meger@cpp.edu</a>&#160; <br/> 
+            <strong>Web:&#160;</strong> 
+            <a href="http://www.cpp.edu/faculty/meger">cpp.edu/faculty/meger/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Mohammad Husain" height="161" src="../img/faculty-staff/husain.png" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="124"/>
+        <h2>Mohammad Husain</h2>
+        <p>
+            <strong>Title:</strong>&#160;Professor &amp; Graduate Coordinator <br/> 
+            <strong>Office:</strong> 8-41 <br/> 
+            <strong>Phone:</strong> (909) 869-2022 <br/> 
+            <strong>Email:</strong>&#160; <a href="mailto:mihusain@cpp.edu">mihusain@cpp.edu</a>&#160; <br/> 
+            <strong>Web:</strong> 
+            <a href="http://www.cpp.edu/faculty/mihusain/">cpp.edu/faculty/mihusain/</a>
+            </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Hao Ji" height="160" src="../img/faculty-staff/haoji.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>&#160; Hao Ji</h2>
+        <p>
+            <strong>&#160; &#160;Title:</strong>&#160;Associate Professor <br/> 
+            <strong>&#160; &#160;Office:</strong>&#160;8-42 <br/> 
+            <strong>&#160; &#160;Phone:</strong>&#160;(909) 869-5521 <br/> 
+            <strong>&#160; &#160;Email:</strong>&#160; <a href="mailto:hji@cpp.edu">hji@cpp.edu</a>&#160; <br/> 
+            <strong>&#160; &#160;Web:</strong>&#160; <a href="http://www.cpp.edu/faculty/hji/">cpp.edu/faculty/hji/</a>
+        </p>
+    </div>
+    <div class="clearfix"><hr/><img alt="John Korah" height="162" src="../img/faculty-staff/johnkorah.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>John Korah</h2>
+        <p>
+            <strong>Title:</strong>&#160;Assistant Professor <br/> 
+            <strong>Office:</strong> 8-15 <br/> 
+            <strong>Phone</strong>: (909) 869-3441 <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:jkorah@cpp.edu">jkorah@cpp.edu</a>&#160; <br/> 
+            <strong>Web</strong>: 
+            <a href="http://www.cpp.edu/faculty/jkorah/">cpp.edu/faculty/jkorah/</a></p>
+    </div>
+    <div class="clearfix"><hr/></div>
+    <div class="clearfix"><img alt="Ericsson Marin" height="157" src="../img/faculty-staff/ericsson.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="121"/>
+        <h2>Ericsson Santana Marin</h2>
+        <p>
+            <strong>Title:</strong> Assistant Professor <br/> 
+            <strong>Office:</strong> 8-39 <br/> 
+            <strong>Phone:</strong> (909) 869-3909 <br/> 
+            <strong>Email:&#160;</strong>&#160; <a href="mailto:santanamarin@cpp.edu">santanamarin@cpp.edu</a> <br/> 
+            <strong>Web:&#160;</strong>
+            <a href="https://www.cpp.edu/faculty/santanamarin">cpp.edu/faculty/santanamarin</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Amar Raheja" height="162" src="../img/faculty-staff/raheja.png" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Amar Raheja</h2>
+        <p>
+            <strong>Title:</strong> Associate Chair and Professor <br/> 
+            <strong>Office:</strong> 8-10 <br/> 
+            <strong>Phone:</strong> (909) 869-4412 <br/> 
+            <strong>Email:</strong>&#160; <a href="mailto:raheja@cpp.edu">raheja@cpp.edu</a>&#160; <br/> 
+            <strong>Web:</strong> 
+            <a href="http://www.cpp.edu/faculty/raheja/">cpp.edu/faculty/raheja/</a>
+        </p>
+    </div>
+    <div class="clearfix"></div>
+    <hr/>
+    <div class="clearfix"><img alt="Salam Salloum" height="150" src="../img/faculty-staff/salloum.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="106"/>
+        <h2>Salam Salloum</h2>
+        <p>
+            <strong>Title</strong>: Professor <br/> 
+            <strong>Office</strong>: 8-8 <br/> 
+            <strong>Phone</strong>: (909) 869-5317 <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:ssalloum@cpp.edu">ssalloum@cpp.edu</a>&#160; <br/> 
+            <strong>Web</strong>: 
+            <a href="http://www.cpp.edu/faculty/ssalloum/">cpp.edu/faculty/ssalloum/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Ben Steichen" height="160" src="../img/faculty-staff/ben.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Ben Steichen</h2>
+        <p>
+            <strong>Title:</strong> Associate Professor <br/>
+            <strong>Office:</strong> 8-44&#160; <br/> 
+            <strong>Phone:</strong> (909) 869-3437 <br/> 
+            <strong>Email: </strong> <a href="mailto:bsteichen@cpp.edu">bsteichen@cpp.edu</a>&#160; <br/> 
+            <strong>Web: </strong> 
+            <a href="http://www.cpp.edu/faculty/bsteichen/">cpp.edu/faculty/bsteichen/</a>
+        </p>
+    </div>
+    <hr/><br/><hr/>
+    <div class="clearfix"><img alt="Assistant Professor Yu Sun" height="161" src="../img/faculty-staff/sun.png" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="124"/>
+        <h2>Yu Sun</h2>
+        <p>
+            <strong>Title</strong>: Associate Professor <br/> 
+            <strong>Office</strong>: 8-13 <br/> 
+            <strong>Phone</strong>: (909) 869-3449 <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:yusun@cpp.edu">yusun@cpp.edu</a>&#160; <br/> 
+            <strong>Web</strong>: 
+            <a href="http://www.cpp.edu/faculty/yusun/">cpp.edu/faculty/yusun/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Fang Daisy Tang" height="205" src="../img/faculty-staff/daisy.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="141"/>
+        <h2>Daisy Tang</h2>
+        <p>
+            <strong>Title</strong>: Chair and Professor <br/> 
+            <strong>Office</strong>: 8-14A <br/> 
+            <strong>Phone</strong>: (909) 869-2157 <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:ftang@cpp.edu">ftang@cpp.edu</a>&#160; <br/> 
+            <strong>Web</strong>: 
+            <a href="http://www.cpp.edu/faculty/ftang/">cpp.edu/faculty/ftang/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Gilbert S. Young" height="160" src="../img/ywang.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Yunsheng Wang</h2>
+        <p>
+            <strong>Title</strong>: Assistant Professor <br/> 
+            <strong>Office</strong>: 8-47 <br/> 
+            <strong>Phone</strong>: (909) 869- <br/> 
+            <strong>Email</strong>: <a href="mailto:yunshengwang@cpp.edu">yunshengwang@cpp.edu</a> <br/> 
+            <strong>Web</strong>: 
+            <a href="https://www.cpp.edu/faculty/yunshengwang/">cpp.edu/faculty/yunshengwang/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Mingyan Xiao" height="160" src="../img/mxiao.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="120"/>
+        <h2>Mingyan Xiao</h2>
+        <p>
+            <strong>Title</strong>: Assistant Professor <br/> 
+            <strong>Office</strong>: 8-45 <br/> 
+            <strong>Phone</strong>: (909) 869- <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:mxiao@cpp.edu">mxiao@cpp.edu</a> <br/> 
+            <strong>Web</strong>: 
+            <a href="https://www.cpp.edu/faculty/mxiao/">cpp.edu/faculty/mxiao/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Lan Yang" height="149" src="../img/faculty-staff/yanglan.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="111"/>
+        <h2>Lan Yang</h2>
+        <p>
+            <strong>Title</strong>: Professor <br/> 
+            <strong>Office</strong>: 8-12 <br/> 
+            <strong>Phone</strong>: (909) 869-4052 <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:lyang@cpp.edu">lyang@cpp.edu</a>&#160; <br/> 
+            <strong>Web</strong>: 
+            <a href="https://www.cpp.edu/faculty/lyang/">cpp.edu/faculty/lyang/</a>
+        </p>
+    </div>
+    <hr/>
+    <div class="clearfix"><img alt="Gilbert S. Young" height="150" src="../img/faculty-staff/young.jpg" style="width: 150px; height: auto; margin-right: 8px; float: left;" width="109"/>
+        <h2>Gilbert S. Young</h2>
+        <p>
+            <strong>Title</strong>: Professor <br/> 
+            <strong>Office</strong>: 8-14 <br/> 
+            <strong>Phone</strong>: (909) 869-4413 <br/> 
+            <strong>Email</strong>:&#160; <a href="mailto:gsyoung@cpp.edu">gsyoung@cpp.edu</a>&#160; <br/> 
+            <strong>Web</strong>: 
+            <a href="http://www.cpp.edu/faculty/gsyoung/">cpp.edu/faculty/gsyoung/</a>
+        </p>
+    </div>
+    <hr/>
+</section>
